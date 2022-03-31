@@ -27,7 +27,7 @@ for roasted brussels sprouts and sausage:
 - 170g Italian sausage
 - 1 Tbsp(9ml) olive oil
 
-- Instructions :
+Instructions :
 1. Peel and cube the potatoes into 1-inch pieces. Rinse them well in a colander, then transfer to a pot and add 1/2 tsp salt and enough water to cover. Place a lid on the pot and heat over high until the water begins to boil. Boil the potatoes until very tender (about 7-10 minutes). Drain the potatoes in the colander and rinse briefly with hot water again to remove excess starch.
 2. While the potatoes are draining, return the pot to the stove and add the butter and milk. Heat over low until the butter has melted and the milk is hot. Return the cooked potatoes to the pot, turn the heat off, and mash until smooth. Season with salt and pepper to taste.
 3. Meanwhile, make the Creamy Dijon Dressing. Combine all the ingredients (olive oil, Dijon, mayonnaise, red wine vinegar, salt, pepper, sugar, garlic powder) in a small bowl or jar and whisk until combined. Set the dressing aside.

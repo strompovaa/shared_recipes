@@ -15,7 +15,7 @@ For the rest :
 - Sprinkle sesame seeds
 - Optional: 1 Broccoli
 
-- Instructions :
+Instructions :
 1. Whisk soy, water and cornstarch/guar gum in a saucepan and heat gently for 5-6 minutes until the sauce has thickened. Add the garlic and ginger at this point. Once thickened, whisk in the maple syrup and remove fromthe heat. Set aside.
 2. If needed prepare your noodles by following instructions on the packaging.
 3. Heat a large wok (or pan) on high for 1-2 minutes. When it’s really hot, add the coconut oil and steak slices and sauté for 1-2 minutes, flipping occasionally.
