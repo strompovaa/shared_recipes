@@ -10,4 +10,8 @@ Repo for sharing delish recipes among friends
 
 - ### Budget Bytes ###
   - [Roasted Brussels Sprout Bowls](./BudgetBytes/RoastedBrusselsSproutBowls.md)
+  - [One Pan Italian Sausage And Veg](./BudgetBytes/OnePanItalianSausageAndVeg.md)
+
+- ### Salads ###
+  - [Greek Salad]
 - ### Desserts ###
