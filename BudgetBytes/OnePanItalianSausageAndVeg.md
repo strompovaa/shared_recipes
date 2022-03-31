@@ -1,7 +1,5 @@
 ### One Pan Italian Sausage And Veg:  ###
 
-![image](https://www.chelseasmessyapron.com/wp-content/uploads/2017/01/Healthy-Italian-Sausage-Veggies-3-639x1024.jpg.webp)
-
 Servings:
 
 - 4
