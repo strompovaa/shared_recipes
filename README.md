@@ -2,7 +2,7 @@
 Repo for sharing delish recipes among friends 
 
 ## Recipes
-- # Asian #
+- ### Asian ###
   - [Beef Teriyaki Noodles](./Asian/BeefTeriyakiNoodles.md)
   
 
