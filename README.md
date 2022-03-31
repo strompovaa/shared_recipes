@@ -7,5 +7,7 @@ Repo for sharing delish recipes among friends
   
 - ### Vegetarian ###
   - [3 ingredient naan bread](./Vegetarian/EasyNaanBread.md)
-  
+
+- ### Budget Bytes ###
+  - [Roasted Brussels Sprout Bowls](./BudgetBytes/RoastedBrusselsSproutBowls.md)
 - ### Desserts ###
