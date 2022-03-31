@@ -13,5 +13,5 @@ Repo for sharing delish recipes among friends
   - [One Pan Italian Sausage And Veg](./BudgetBytes/OnePanItalianSausageAndVeg.md)
 
 - ### Salads ###
-  - [Greek Salad]
+  - [Greek Salad](./Salads/GreekSalad.md)
 - ### Desserts ###
