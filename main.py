@@ -15,7 +15,6 @@ for dirname in listdir(main):
             prices[filename.replace('_', ' ')[:-3]] = (file.readline().strip()[-1], dirname)
             difficulty[filename.replace('_', ' ')[:-3]] = (file.readline().strip()[-1], dirname)
 
-''''''
 # Script for writing Recipes README.md
 with open(main+'README.md', 'w') as file:
     file.write('## Recipes\n')
@@ -23,11 +22,13 @@ with open(main+'README.md', 'w') as file:
         file.write(f"- ### {k} ###\n")
         for dish in v:
             dname = dish.replace(' ', '_')
-            file.write(f"  - [{dish}]({main}{k}/{dname}.md)\n")
+            file.write(f"  - [{dish}]({k}/{dname}.md)\n")
         file.write('\n')
+
 prices = {k: v for k,v in sorted(prices.items(), key=lambda item: item[1])}
 difficulty = {k: v for k,v in sorted(difficulty.items(), key=lambda item: item[1])}
 
+# Script for sorting recipes by price and difficulty
 with open('Prices/README.md', 'w') as file:
     file.write('Recipes sorted by price in ascending order\n')
     file.write('## Recipes\n')
