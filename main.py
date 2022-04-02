@@ -41,6 +41,3 @@ with open('Difficulty/README.md', 'w') as file:
     for k,v in difficulty.items():
         dname = k.replace(' ', '_')
         file.write(f"  - [{k}, Difficulty: {v[0]}]({main}{v[1]}/{dname}.md)\n")
-
-print(2)
-print(1)
