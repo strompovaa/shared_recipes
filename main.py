@@ -33,11 +33,11 @@ with open('Prices/README.md', 'w') as file:
     file.write('## Recipes\n')
     for k,v in prices.items():
         dname = k.replace(' ', '_')
-        file.write(f"  - [{k} Price: {v[0]}]({main}{v[1]}/{dname}.md)\n")
+        file.write(f"  - [{k}, Price: {v[0]}]({main}{v[1]}/{dname}.md)\n")
 
 with open('Difficulty/README.md', 'w') as file:
     file.write('Recipes sorted by difficulty in ascending order\n')
     file.write('## Recipes\n')
     for k,v in difficulty.items():
         dname = k.replace(' ', '_')
-        file.write(f"  - [{k} Difficulty: {v[0]}]({main}{v[1]}/{dname}.md)\n")
+        file.write(f"  - [{k}, Difficulty: {v[0]}]({main}{v[1]}/{dname}.md)\n")
