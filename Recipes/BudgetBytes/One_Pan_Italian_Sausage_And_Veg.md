@@ -1,8 +1,7 @@
 ### One Pan Italian Sausage And Veg:  ###
-
-Servings:
-
-- 4
+Price: 3
+Difficulty: 3
+Servings: 4 (without side-dish), 6 (with side-dish)
 
 Main ingredients:
 

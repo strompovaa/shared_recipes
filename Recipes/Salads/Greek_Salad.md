@@ -1,7 +1,7 @@
 ### Greek Salad:  ###
-Servings:
-
-- 4
+Price: 4
+Difficulty: 2
+Servings: 4
 
 Ingredients:
 

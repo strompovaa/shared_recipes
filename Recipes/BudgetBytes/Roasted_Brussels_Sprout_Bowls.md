@@ -1,7 +1,7 @@
 ### Roasted Brussels Sprout Bowls:  ###
-Servings:
-
-- 2
+Price: 4
+Difficulty: 3
+Servings: 2
 
 For the mashed potatoes:
 
