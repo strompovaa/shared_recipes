@@ -1,4 +1,8 @@
-### Teriyaki beef noodles 4meals:  ###
+### Teriyaki beef noodles:  ###
+Price: 6
+Difficulty: 5
+Servings: 4
+
 For the sauce :
 - 75ml soy sauce
 - 120ml water

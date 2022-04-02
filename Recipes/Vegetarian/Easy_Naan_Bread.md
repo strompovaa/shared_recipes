@@ -1,4 +1,8 @@
-### 3 ingredient naan bread:  ### 
+### 3 ingredient naan bread:  ###
+Price: 2
+Difficulty: 3
+Servings: 2
+
   1 3/4 cups self-rising flour use gluten-free, if needed
   1 cup Greek Yogurt vegan Greek yogurt, non-fat, full-fat or reduced fat
   1/2 teaspoon salt
