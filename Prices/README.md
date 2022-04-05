@@ -5,4 +5,5 @@ Recipes sorted by price in ascending order
   - [Roasted Vegetable Couscous, Price: 3](../Recipes/BudgetBytes/Roasted_Vegetable_Couscous.md)
   - [Roasted Brussels Sprout Bowls, Price: 4](../Recipes/BudgetBytes/Roasted_Brussels_Sprout_Bowls.md)
   - [Greek Salad, Price: 4](../Recipes/Salads/Greek_Salad.md)
+  - [Ombre Apple Tart, Price: 5](../Recipes/Desserts/Ombre_Apple_Tart.md)
   - [Beef Teriyaki Noodles, Price: 6](../Recipes/Asian/Beef_Teriyaki_Noodles.md)

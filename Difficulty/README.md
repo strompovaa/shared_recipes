@@ -6,3 +6,4 @@ Recipes sorted by difficulty in ascending order
   - [Roasted Brussels Sprout Bowls, Difficulty: 3](../Recipes/BudgetBytes/Roasted_Brussels_Sprout_Bowls.md)
   - [Easy Naan Bread, Difficulty: 3](../Recipes/Vegetarian/Easy_Naan_Bread.md)
   - [Beef Teriyaki Noodles, Difficulty: 5](../Recipes/Asian/Beef_Teriyaki_Noodles.md)
+  - [Ombre Apple Tart, Difficulty: 6](../Recipes/Desserts/Ombre_Apple_Tart.md)

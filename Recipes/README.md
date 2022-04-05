@@ -8,6 +8,7 @@
   - [Roasted Vegetable Couscous](BudgetBytes/Roasted_Vegetable_Couscous.md)
 
 - ### Desserts ###
+  - [Ombre Apple Tart](Desserts/Ombre_Apple_Tart.md)
 
 - ### Salads ###
   - [Greek Salad](Salads/Greek_Salad.md)
