@@ -8,3 +8,4 @@ Recipes sorted by price in ascending order
   - [Butter Chicken, Price: 5](../Recipes/Asian/Butter_Chicken.md)
   - [Ombre Apple Tart, Price: 5](../Recipes/Desserts/Ombre_Apple_Tart.md)
   - [Beef Teriyaki Noodles, Price: 6](../Recipes/Asian/Beef_Teriyaki_Noodles.md)
+  - [Crispy Baked Taquitos, Price: 6](../Recipes/Mexican/Crispy_Baked_Taquitos.md)

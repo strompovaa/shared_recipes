@@ -11,6 +11,9 @@
 - ### Desserts ###
   - [Ombre Apple Tart](Desserts/Ombre_Apple_Tart.md)
 
+- ### Mexican ###
+  - [Crispy Baked Taquitos](Mexican/Crispy_Baked_Taquitos.md)
+
 - ### Salads ###
   - [Greek Salad](Salads/Greek_Salad.md)
 

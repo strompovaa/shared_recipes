@@ -8,3 +8,4 @@ Recipes sorted by difficulty in ascending order
   - [Beef Teriyaki Noodles, Difficulty: 5](../Recipes/Asian/Beef_Teriyaki_Noodles.md)
   - [Butter Chicken, Difficulty: 5](../Recipes/Asian/Butter_Chicken.md)
   - [Ombre Apple Tart, Difficulty: 6](../Recipes/Desserts/Ombre_Apple_Tart.md)
+  - [Crispy Baked Taquitos, Difficulty: 6](../Recipes/Mexican/Crispy_Baked_Taquitos.md)
