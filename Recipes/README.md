@@ -1,6 +1,7 @@
 ## Recipes
 - ### Asian ###
   - [Beef Teriyaki Noodles](Asian/Beef_Teriyaki_Noodles.md)
+  - [Butter Chicken](Asian/Butter_Chicken.md)
 
 - ### BudgetBytes ###
   - [One Pan Italian Sausage And Veg](BudgetBytes/One_Pan_Italian_Sausage_And_Veg.md)
