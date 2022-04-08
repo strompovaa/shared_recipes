@@ -6,6 +6,7 @@ Recipes sorted by price in ascending order
   - [Stroppiana Special, Price: 3](../Recipes/Salads/Stroppiana_Special.md)
   - [Roasted Brussels Sprout Bowls, Price: 4](../Recipes/BudgetBytes/Roasted_Brussels_Sprout_Bowls.md)
   - [Greek Salad, Price: 4](../Recipes/Salads/Greek_Salad.md)
+  - [Miso, Price: 4](../Recipes/Soups/Miso.md)
   - [Butter Chicken, Price: 5](../Recipes/Asian/Butter_Chicken.md)
   - [Ombre Apple Tart, Price: 5](../Recipes/Desserts/Ombre_Apple_Tart.md)
   - [Beef Teriyaki Noodles, Price: 6](../Recipes/Asian/Beef_Teriyaki_Noodles.md)
