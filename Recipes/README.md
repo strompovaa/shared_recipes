@@ -16,6 +16,7 @@
 
 - ### Salads ###
   - [Greek Salad](Salads/Greek_Salad.md)
+  - [Stroppiana Special](Salads/Stroppiana_Special.md)
 
 - ### Vegetarian ###
   - [Easy Naan Bread](Vegetarian/Easy_Naan_Bread.md)
