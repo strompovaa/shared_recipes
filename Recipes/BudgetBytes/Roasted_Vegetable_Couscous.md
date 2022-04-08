@@ -40,3 +40,31 @@ Instructions
     - Place the seasoned chicken in a baking dish and bake for 20 minutes at 200ºC, or until the internal temperature reaches 165ºF. Let the chicken rest for 5 minutes, then slice into strips.
 3. For garlic herb chickpeas
     - To make Garlic Herb Chickpeas instead, rinse and drain 2 425g cans of chickpeas. Heat 1 Tbsp oil in a large skillet over medium. Once hot, add the chickpeas, and sauté for about 5 minutes, or until the chickpeas are golden and the skins are blistered. Remove them from heat and then season with the same garlic herb spices used for the chicken (no butter). Stir until the chickpeas are coated in the herbs and spices.
+
+Nutrition Facts:
+
+- For chicken version
+| Amount per serving  | 363kcal             | (grams) |
+|---------------------|---------------------|---------|
+| Total Fat           |                     | 22.9    |
+|                     | Saturated Fat       | 6.2     |
+|                     | Trans Fat           | 0.2     |
+|                     | Polyunsaturated Fat | 2.3     |
+|                     | Monounsaturated Fat | 12.1    |
+| Total Carbohydrates |                     | 19.3    |
+|                     | Sugars              | 6.1     |
+|                     | Dietary Fiber       | 3.2     |
+| Protein             |                     | 22.8    |
+
+- For chickpea version
+| Amount per serving  | 407kcal             | (grams) |
+|---------------------|---------------------|---------|
+| Total Fat           |                     | 23.2    |
+|                     | Saturated Fat       | 6       |
+|                     | Trans Fat           | 0.2     |
+|                     | Polyunsaturated Fat | 1.8     |
+|                     | Monounsaturated Fat | 11.3    |
+| Total Carbohydrates |                     | 38.5    |
+|                     | Sugars              | 6.9     |
+|                     | Dietary Fiber       | 3.2     |
+| Protein             |                     | 12.2    |
