@@ -7,7 +7,7 @@ Cook time: 10 minutes
 
 Ingredients:
 
-- 1 can tuna in sunflower oil
+- 1 can tuna in oil
 - 1 mozzarella
 - 1 red onion
 - 1 can red kidney beans
