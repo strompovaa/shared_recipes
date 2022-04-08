@@ -7,12 +7,12 @@ Cook time: 10 minutes
 
 Ingredients:
 
-2 tsp dashi
-4 cups (1L) water
-3 tbsp miso
-dash of wakame (dried seaweed)
-500g soft tofu
-green onion
+- 2 tsp dashi
+- 4 cups (1L) water
+- 3 tbsp miso
+- dash of wakame (dried seaweed)
+- 500g soft tofu
+- green onion
 
 Instructions:
 
