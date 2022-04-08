@@ -44,6 +44,7 @@ Instructions
 Nutrition Facts:
 
 - For chicken version
+
 | Amount per serving  | 363kcal             | (grams) |
 |---------------------|---------------------|---------|
 | Total Fat           |                     | 22.9    |
