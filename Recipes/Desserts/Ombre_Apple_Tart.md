@@ -4,6 +4,7 @@ Difficulty: 6
 Servings: 12
 
 Dough:
+
 - 150-180g plain flour
 - 60-70g powder sugar
 - 130g butter
@@ -13,12 +14,14 @@ Dough:
 - 28cm pie pan
 
 Filling:
+
 - 8-10 apples, we choose them based on colour aiming to create a colour spectrum from red to green (red, pink, orange, yellow, green)
 - 1 tbsp ground cinnamon
 - 50-60g caster sugar
 - pinch of salt
 
 Instructions:
+
 - Start by mixing flour, sugar, salt after ingredients are thorougly mixed add the rest. We want to achieve nice crumbled dough which after pressing stays together.
 - We roll the dough into a ball cover with foil and let it rest in fridge for at least 2 hours.
 - In the meantime we will prepare our apples. We deseed them and halve them, next we slice them in 2mm pieces so they create a nice texture in the tart later on.
