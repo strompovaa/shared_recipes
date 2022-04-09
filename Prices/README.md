@@ -1,9 +1,14 @@
 Recipes sorted by price in ascending order
 ## Recipes
+  - [Fish Spread, Price: 2](../Recipes/BudgetBytes/Fish_Spread.md)
+  - [American Pancakes, Price: 2](../Recipes/Desserts/American_Pancakes.md)
   - [Easy Naan Bread, Price: 2](../Recipes/Vegetarian/Easy_Naan_Bread.md)
+  - [Nasi Goreng, Price: 3](../Recipes/Asian/Nasi_Goreng.md)
   - [One Pan Italian Sausage And Veg, Price: 3](../Recipes/BudgetBytes/One_Pan_Italian_Sausage_And_Veg.md)
   - [Roasted Vegetable Couscous, Price: 3](../Recipes/BudgetBytes/Roasted_Vegetable_Couscous.md)
   - [Roasted Brussels Sprout Bowls, Price: 4](../Recipes/BudgetBytes/Roasted_Brussels_Sprout_Bowls.md)
+  - [Hummus Chorizo Bowl, Price: 4](../Recipes/Oriental/Hummus_Chorizo_Bowl.md)
   - [Greek Salad, Price: 4](../Recipes/Salads/Greek_Salad.md)
+  - [Saucy Ramen Noodles, Price: 5](../Recipes/Asian/Saucy_Ramen_Noodles.md)
   - [Ombre Apple Tart, Price: 5](../Recipes/Desserts/Ombre_Apple_Tart.md)
   - [Beef Teriyaki Noodles, Price: 6](../Recipes/Asian/Beef_Teriyaki_Noodles.md)

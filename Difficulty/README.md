@@ -1,9 +1,14 @@
 Recipes sorted by difficulty in ascending order
 ## Recipes
+  - [Fish Spread, Difficulty: 1](../Recipes/BudgetBytes/Fish_Spread.md)
+  - [Nasi Goreng, Difficulty: 2](../Recipes/Asian/Nasi_Goreng.md)
   - [Roasted Vegetable Couscous, Difficulty: 2](../Recipes/BudgetBytes/Roasted_Vegetable_Couscous.md)
+  - [Hummus Chorizo Bowl, Difficulty: 2](../Recipes/Oriental/Hummus_Chorizo_Bowl.md)
   - [Greek Salad, Difficulty: 2](../Recipes/Salads/Greek_Salad.md)
   - [One Pan Italian Sausage And Veg, Difficulty: 3](../Recipes/BudgetBytes/One_Pan_Italian_Sausage_And_Veg.md)
   - [Roasted Brussels Sprout Bowls, Difficulty: 3](../Recipes/BudgetBytes/Roasted_Brussels_Sprout_Bowls.md)
+  - [American Pancakes, Difficulty: 3](../Recipes/Desserts/American_Pancakes.md)
   - [Easy Naan Bread, Difficulty: 3](../Recipes/Vegetarian/Easy_Naan_Bread.md)
+  - [Saucy Ramen Noodles, Difficulty: 4](../Recipes/Asian/Saucy_Ramen_Noodles.md)
   - [Beef Teriyaki Noodles, Difficulty: 5](../Recipes/Asian/Beef_Teriyaki_Noodles.md)
   - [Ombre Apple Tart, Difficulty: 6](../Recipes/Desserts/Ombre_Apple_Tart.md)
