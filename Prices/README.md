@@ -6,6 +6,7 @@ Recipes sorted by price in ascending order
   - [Nasi Goreng, Price: 3](../Recipes/Asian/Nasi_Goreng.md)
   - [One Pan Italian Sausage And Veg, Price: 3](../Recipes/BudgetBytes/One_Pan_Italian_Sausage_And_Veg.md)
   - [Roasted Vegetable Couscous, Price: 3](../Recipes/BudgetBytes/Roasted_Vegetable_Couscous.md)
+  - [Cucumber Crab Strings, Price: 3](../Recipes/Salads/Cucumber_Crab_Strings.md)
   - [Stroppiana Special, Price: 3](../Recipes/Salads/Stroppiana_Special.md)
   - [Roasted Brussels Sprout Bowls, Price: 4](../Recipes/BudgetBytes/Roasted_Brussels_Sprout_Bowls.md)
   - [Hummus Chorizo Bowl, Price: 4](../Recipes/Oriental/Hummus_Chorizo_Bowl.md)

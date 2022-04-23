@@ -22,6 +22,7 @@
   - [Hummus Chorizo Bowl](Oriental/Hummus_Chorizo_Bowl.md)
 
 - ### Salads ###
+  - [Cucumber Crab Strings](Salads/Cucumber_Crab_Strings.md)
   - [Greek Salad](Salads/Greek_Salad.md)
   - [Stroppiana Special](Salads/Stroppiana_Special.md)
 

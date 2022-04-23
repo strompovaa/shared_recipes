@@ -1,6 +1,7 @@
 Recipes sorted by difficulty in ascending order
 ## Recipes
   - [Fish Spread, Difficulty: 1](../Recipes/BudgetBytes/Fish_Spread.md)
+  - [Cucumber Crab Strings, Difficulty: 1](../Recipes/Salads/Cucumber_Crab_Strings.md)
   - [Nasi Goreng, Difficulty: 2](../Recipes/Asian/Nasi_Goreng.md)
   - [Roasted Vegetable Couscous, Difficulty: 2](../Recipes/BudgetBytes/Roasted_Vegetable_Couscous.md)
   - [Hummus Chorizo Bowl, Difficulty: 2](../Recipes/Oriental/Hummus_Chorizo_Bowl.md)
