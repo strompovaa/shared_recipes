@@ -1,4 +1,4 @@
-### Sweet potato hash:  ###
+### Sweet Potato Hash: ###
 Price: 4
 Difficulty: 3
 Servings: 4
@@ -21,7 +21,7 @@ Ingredients:
 - Freshly ground pepper
 
 Instructions :
-1. Start by peeling and chopping 2 large sweet potatoes, place the ½” pieces into a bowl along with a pinch of kosher salt, freshly ground pepper, and a tablespoon of vegetable oil then mix to combine. 
+1. Start by peeling and chopping 2 large sweet potatoes, place the ½” pieces into a bowl along with a pinch of kosher salt, freshly ground pepper, and a tablespoon of vegetable oil then mix to combine.
 2. Cover with plastic wrap or a plate and microwave for 5-6 minutes tossing once halfway through.
 3. Chop ½ large onion, 1 poblano pepper (optional), and 3 links of smoked chorizo.
 4. Add a tablespoon of vegetable oil to the skillet before dumping in the chorizo slices and browning.

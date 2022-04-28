@@ -1,4 +1,4 @@
-### Roasted Vegetable Couscous ###
+### Roasted Vegetable Couscous: ###
 Price: 3
 Difficulty: 2
 Servings: 4
