@@ -20,3 +20,5 @@ Instructions:
 - Once boiling reduce the heat so the Miso does not lose its flavour
 - Strain miso into pan, add wakame, soft tofu and green onion
 - Turn of the heat stir for 3 minutes and serve.
+
+![image](https://user-images.githubusercontent.com/77455675/162573808-b4637eb0-1613-4ea7-bc46-2a5f7d0985ad.png)

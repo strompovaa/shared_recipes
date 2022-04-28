@@ -47,3 +47,6 @@ Also, if you plan to use way more veggies and more noodles, you can double the s
 11. Taste the noodles and feel free to season with some more soy sauce, sweetener, soy sauce, and pepper if needed.
 
 12. Garnish with sesame seeds and spring onions, if desired. Enjoy immediately while hot!
+
+![image](https://user-images.githubusercontent.com/77455675/162573672-5d4f6a6b-1270-4805-81f3-6d2421e1e028.png)
+

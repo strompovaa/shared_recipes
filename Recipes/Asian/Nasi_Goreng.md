@@ -22,3 +22,5 @@ Instructions :
 2. Toss in the carrot and cabbage, then cook for 1-2 mins. Add the rice and stir to warm through. Pour in the fish sauce, soy sauce and some seasoning. Make a well in the centre of the wok and crack in the egg. Fry until the white is nearly set.
 
 3.  Serve the rice in a large bowl, topped with the fried egg and drizzled with chilli sauce.
+
+![image](https://user-images.githubusercontent.com/77455675/162573610-cc933de4-1e3b-40a8-8094-d14464a98279.png)
