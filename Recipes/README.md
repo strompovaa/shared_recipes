@@ -10,7 +10,7 @@
   - [One Pan Italian Sausage And Veg](BudgetBytes/One_Pan_Italian_Sausage_And_Veg.md)
   - [Roasted Brussels Sprout Bowls](BudgetBytes/Roasted_Brussels_Sprout_Bowls.md)
   - [Roasted Vegetable Couscous](BudgetBytes/Roasted_Vegetable_Couscous.md)
-  - [Sweet Potato Hash](BudgetBytes/Sweet_potato_hash.md)
+  - [Sweet potato hash](BudgetBytes/Sweet_potato_hash.md)
 
 - ### Desserts ###
   - [American Pancakes](Desserts/American_Pancakes.md)
@@ -22,13 +22,21 @@
 - ### Oriental ###
   - [Hummus Chorizo Bowl](Oriental/Hummus_Chorizo_Bowl.md)
 
+- ### Pasta ###
+  - [Creamy Salmon Gnocchi](Pasta/Creamy_Salmon_Gnocchi.md)
+
 - ### Salads ###
   - [Cucumber Crab Strings](Salads/Cucumber_Crab_Strings.md)
   - [Greek Salad](Salads/Greek_Salad.md)
+  - [Peach Feta Couscous](Salads/Peach_Feta_Couscous.md)
   - [Stroppiana Special](Salads/Stroppiana_Special.md)
 
 - ### Soups ###
   - [Miso](Soups/Miso.md)
 
+- ### Vegan ###
+  - [Zucchini Brownie](Vegan/Zucchini_Brownie.md)
+
 - ### Vegetarian ###
   - [Easy Naan Bread](Vegetarian/Easy_Naan_Bread.md)
+
