@@ -10,7 +10,7 @@ for dirname in listdir(main):
     cuisine[dirname] = []
     for filename in listdir(main+dirname):
         cuisine[dirname].append(filename.replace('_', ' ')[:-3])
-        with open(main+dirname+'/'+filename) as file:
+        with open(main+dirname+'/'+filename, encoding='utf8') as file:
             file.readline()
             prices[filename.replace('_', ' ')[:-3]] = (file.readline().strip()[-1], dirname)
             difficulty[filename.replace('_', ' ')[:-3]] = (file.readline().strip()[-1], dirname)
