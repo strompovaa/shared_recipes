@@ -1,3 +1,5 @@
+[![Python organization for repo](https://github.com/TimotejKovacka/shared_recipes/actions/workflows/python-app.yml/badge.svg)](https://github.com/TimotejKovacka/shared_recipes/actions/workflows/python-app.yml)
+
 # shared_recipes
 Repo for sharing delish recipes among friends
 
