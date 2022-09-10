@@ -7,9 +7,9 @@
 
 - ### Salads ###
   - [Stroppiana Special](Salads/Stroppiana_Special.md)
+  - [Drabek's Co Dúm Dal](Salads/Drabek's_Co_Dúm_Dal.md)
   - [Cucumber Crab Strings](Salads/Cucumber_Crab_Strings.md)
   - [Greek Salad](Salads/Greek_Salad.md)
-  - [Drabek's Co Dúm ](Salads/Drabek's_Co_Dúm_.md)
   - [Peach Feta Couscous](Salads/Peach_Feta_Couscous.md)
 
 - ### Desserts ###

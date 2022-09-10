@@ -13,7 +13,7 @@ Recipes sorted by difficulty in ascending order
   - [Roasted Brussels Sprout Bowls, Difficulty: 3](../Recipes/BudgetBytes/Roasted_Brussels_Sprout_Bowls.md)
   - [One Pan Italian Sausage And Veg, Difficulty: 3](../Recipes/BudgetBytes/One_Pan_Italian_Sausage_And_Veg.md)
   - [American Pancakes, Difficulty: 3](../Recipes/Desserts/American_Pancakes.md)
-  - [Drabek's Co Dúm , Difficulty: 3](../Recipes/Salads/Drabek's_Co_Dúm_.md)
+  - [Drabek's Co Dúm Dal, Difficulty: 3](../Recipes/Salads/Drabek's_Co_Dúm_Dal.md)
   - [Easy Naan Bread, Difficulty: 3](../Recipes/Vegetarian/Easy_Naan_Bread.md)
   - [Saucy Ramen Noodles, Difficulty: 4](../Recipes/Asian/Saucy_Ramen_Noodles.md)
   - [Beef Teriyaki Noodles, Difficulty: 5](../Recipes/Asian/Beef_Teriyaki_Noodles.md)
