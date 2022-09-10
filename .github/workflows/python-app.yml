@@ -31,7 +31,7 @@ jobs:
         ls -l
         
     - name: Execute main py
-      run: python
+      run: python main.py
       
     - name: commit files
       run: |
