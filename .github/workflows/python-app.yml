@@ -25,6 +25,11 @@ jobs:
       with:
         python-version: "3.10"
         
+    - name: Check Directory
+      run: |
+        pwd
+        ls -l
+        
     - name: Execute main py
       run: python
       
