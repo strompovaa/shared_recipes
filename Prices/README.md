@@ -13,7 +13,7 @@ Recipes sorted by price in ascending order
   - [Sweet potato hash, Price: 4](../Recipes/BudgetBytes/Sweet_potato_hash.md)
   - [Mexican Style Beef Loaded Wedges, Price: 4](../Recipes/Mexican/Mexican_Style_Beef_Loaded_Wedges.md)
   - [Hummus Chorizo Bowl, Price: 4](../Recipes/Oriental/Hummus_Chorizo_Bowl.md)
-  - [Drabek's Co Dúm Dal, Price: 4](../Recipes/Salads/Drabek's_Co_Dúm_Dal.md)
+  - [Drabek's Co Dï¿½m Dal, Price: 4](../Recipes/Salads/Drabek's_Co_Dï¿½m_Dal.md)
   - [Greek Salad, Price: 4](../Recipes/Salads/Greek_Salad.md)
   - [Miso, Price: 4](../Recipes/Soups/Miso.md)
   - [Tomato Soup, Price: 4](../Recipes/Soups/Tomato_Soup.md)
