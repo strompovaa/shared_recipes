@@ -18,3 +18,4 @@ Servings: 3
   Break in the tofu, then fold the rice back through the egg until it’s all looking good. Taste and season to perfection.
   Lightly oil the inside of a bowl, add the stir-fried rice, gently compacting it with the spatula, then proudly turn out on to a plate.
   
+![image](https://user-images.githubusercontent.com/77455675/199262453-62eedb9e-ffb9-4fd3-af77-3ca3aeb6eb07.png)
