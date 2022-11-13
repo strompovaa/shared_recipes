@@ -17,6 +17,7 @@ Recipes sorted by difficulty in ascending order
   - [Mexican Style Beef Loaded Wedges, Difficulty: 3](../Recipes/Mexican/Mexican_Style_Beef_Loaded_Wedges.md)
   - [Drabek's Co Dúm Dal, Difficulty: 3](../Recipes/Salads/Drabek's_Co_Dúm_Dal.md)
   - [Tomato Soup, Difficulty: 3](../Recipes/Soups/Tomato_Soup.md)
+  - [Vegan Ramen, Difficulty: 3](../Recipes/Vegan/Vegan_Ramen.md)
   - [Easy Naan Bread, Difficulty: 3](../Recipes/Vegetarian/Easy_Naan_Bread.md)
   - [Saucy Ramen Noodles, Difficulty: 4](../Recipes/Asian/Saucy_Ramen_Noodles.md)
   - [Beef Teriyaki Noodles, Difficulty: 5](../Recipes/Asian/Beef_Teriyaki_Noodles.md)

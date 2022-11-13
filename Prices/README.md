@@ -18,6 +18,7 @@ Recipes sorted by price in ascending order
   - [Greek Salad, Price: 4](../Recipes/Salads/Greek_Salad.md)
   - [Tomato Soup, Price: 4](../Recipes/Soups/Tomato_Soup.md)
   - [Miso, Price: 4](../Recipes/Soups/Miso.md)
+  - [Vegan Ramen, Price: 4](../Recipes/Vegan/Vegan_Ramen.md)
   - [Saucy Ramen Noodles, Price: 5](../Recipes/Asian/Saucy_Ramen_Noodles.md)
   - [Butter Chicken, Price: 5](../Recipes/Asian/Butter_Chicken.md)
   - [Ombre Apple Tart, Price: 5](../Recipes/Desserts/Ombre_Apple_Tart.md)

@@ -25,6 +25,7 @@
 
 - ### Vegan ###
   - [Zucchini Brownie](Vegan/Zucchini_Brownie.md)
+  - [Vegan Ramen](Vegan/Vegan_Ramen.md)
 
 - ### Oriental ###
   - [Hummus Chorizo Bowl](Oriental/Hummus_Chorizo_Bowl.md)
