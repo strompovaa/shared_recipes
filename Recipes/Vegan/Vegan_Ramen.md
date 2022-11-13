@@ -35,3 +35,5 @@ Instructions:
 10. Add 1 tsp soy sauce and 2 tsp dark soy sauce.  Sauté for another minute
 11. When the broth comes to a boil, pour it into the ramen bowl.  Place in the noodles followed by the sautéed veggies
 12. Garnish with some chili threads and another tbsp of chili oil
+
+![image](https://user-images.githubusercontent.com/77455675/201515998-837ffb41-6e4f-41e6-b6b8-75c585f71ba5.png)
