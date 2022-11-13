@@ -1,4 +1,4 @@
-### Zucchini Brownies ###
+### Zucchini Brownie ###
 Price: 5
 Difficulty: 5
 Servings: 8
@@ -25,7 +25,7 @@ Wet ingredients:
 
 Instructions:
 
-- Line a (15x23 cm) loaf pan or a slightly bigger pan with parchment paper or grease it with vegan butter or oil and preheat oven to 180°C. 
+- Line a (15x23 cm) loaf pan or a slightly bigger pan with parchment paper or grease it with vegan butter or oil and preheat oven to 180°C.
 - Process all dry ingredients (except the chocolate chips) in a food processor.
 - Add all wet ingredients and blend again until the batter is smooth.
 - Finally, add the chocolate chips and stir with a spoon.
